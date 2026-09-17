@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently em busca de uma vaga de estágio ou de uma vaga Jr.
 - 🌱 I’m currently learning react e spring boot.
-- 📫 How to reach me: elisaranikelly2004@gmail.com
+- 📫 How to reach me: elisafatima2004@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
